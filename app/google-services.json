@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "956595930282",
+    "project_id": "spending-aea67",
+    "storage_bucket": "spending-aea67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956595930282:android:26928149ff559dd3e93cd3",
+        "android_client_info": {
+          "package_name": "com.smit.expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956595930282-7vmsch33qnfjgbvjeda6g5hncrla6kto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smit.expense",
+            "certificate_hash": "e123451e32fb1f6fe0376186611fd7ca4b565b46"
+          }
+        },
+        {
+          "client_id": "956595930282-913q0ani52qv65jick3vipkkctjctgqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhyvyqZAU9hIDk5hTAbYPCiXlXrvJdsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956595930282-913q0ani52qv65jick3vipkkctjctgqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956595930282:android:f22ffd255ce959fde93cd3",
+        "android_client_info": {
+          "package_name": "com.smit.spending"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956595930282-913q0ani52qv65jick3vipkkctjctgqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhyvyqZAU9hIDk5hTAbYPCiXlXrvJdsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956595930282-913q0ani52qv65jick3vipkkctjctgqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
